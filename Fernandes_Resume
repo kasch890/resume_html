@@ -1,10 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="UTF-8">
-        <meta name="description" content="Resume for Kai Fernandes">
+        <meta charset="UTF-8"/>
+        <meta name="description" content="Resume for Kai Fernandes"/>
+        <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+        <title>Fernandes Resume</title>
+        <link href="resume_stylesheet.css" rel="stylesheet"/>
     </head>
     <body>
+        <div class="information_header">
+            <h2 class="name"><strong>Kai Fernandes</strong></h2>
+            <h6>kai.fernandes890@gmail.com | 774-678-5252</h6>
+            <h6>LinkedIn: www.linkedin.com/in/kai-fernandes | Github : https://github.com/kasch890 </h6>
 
+
+        </div>
     </body>
 </html>

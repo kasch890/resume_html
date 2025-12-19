@@ -1,0 +1,7 @@
+@page {
+    size: US Letter;
+    margin: 0.5in;   
+}
+.information_header{
+    text-align: center;
+}
