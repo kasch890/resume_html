@@ -5,25 +5,26 @@
 .information_header{
     text-align: center;
 }
-div, h1, h2, p {
+div, h1, h2, h3, p {
     margin: 0;
     padding: 0;
+
 }
-/* h1{
-font-size: 14;
+h1{
+    font-size: x-large;
 }
 h2{
-    font-size: 12;
+    font-size: large;
 }
 h3{
-    font-size: 10;
-} */
+    font-size: medium;
+}
 hr{
     height: 2px; /* Sets the thickness of the line */
-    background-color: #000000; /*Sets the color*/
-    border: none; /* Removes the default border */
-    margin: 5px auto 5 px auto; /* Adds space above and below the line */
-    width: 80%; /* Sets the width of the line */
+    background-color: #000000; 
+    border: none; 
+    margin: 2px auto 5 px auto; 
+    width: 90%; 
     align-self: center;
     
 }

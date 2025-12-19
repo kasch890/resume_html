@@ -8,19 +8,74 @@
         <link href="resume_stylesheet.css" rel="stylesheet"/>
     </head>
     <body>
-        <div class="information_header">
-            <h1 class="name"><strong>Kai Fernandes</strong></h1>
+        <div class="information-header">
+            <h1 class="name" ><strong>Kai Fernandes</strong></h1>
             <p>kai.fernandes890@gmail.com | 774-678-5252</p>
             <p>LinkedIn: www.linkedin.com/in/kai-fernandes | Github : https://github.com/kasch890 </p>
         </div>
         <div class="section">
-            <h2>Professional Summary</h2>
+            <h2 class="section-header">Professional Summary</h2>
             <hr>
             <p>Master’s student in Software Development with a strong foundation in physics and astronomy research,
                  now pivoting into software engineering. Experienced in Python, Java, UX/UI design, machine learning,
                   and web development, with hands-on projects ranging from Trello plug-in development to custom Python applications.
                    Passionate about user-focused design and collaborative problem-solving, seeking to apply technical expertise, 
                    analytical skills, and communication strengths in software engineering internships.</p>            
+        </div>
+        <div class="section">
+            <h2>Education</h2>
+            <hr>
+            <p>Boston University Metropolitan College - MS in Software Development (Expected Fall 2026) ; 
+                Graduate Certificate in Software Engineering (Expected Summer 2026) | Current GPA 3.68</p>            
+            <p>Amherst College - Class of 2024 - BA in Physics | Final GPA 3.63</p>            
+        </div>
+        <div class="section">
+            <h2>Technical Skills</h2>
+            <hr>
+            <p>This is where my technical skills will go</p>            
+        </div>
+        <div class="section">
+            <h2>Projects</h2>
+            <hr>
+            <div class="project">
+                <h3 class="entry-header">Game Log Application</h3>
+                <ul>
+                    <li>Designed and implemented a Game object class and Game_Log application to manage user entries</li>
+                    <li>Built CRUD functionality for game records with JSON import/export support</li>
+                    <li>Applied object-oriented programming principles to structure code for scalability and maintainability</li>
+
+                </ul>     
+            </div>       
+            <div class="project">
+                <h3 class="entry-header">Trello Power-Up Development</h3>
+                <ul>
+                    <li>Adopted Agile framework (sprint planning, backlog grooming) and maintained estimation records</li>
+                    <li>Designed wireframes using Figma and implemented them with HTML/CSS to assist front end production</li>
+                    <li>Created UML diagrams to document system architecture and team workflows</li>
+
+                </ul>      
+            </div> 
+            <div class="project">
+                <h3 class="entry-header">Project 3</h3>
+                <p>This is where my project information will go</p>     
+            </div> 
+        </div>
+        <div class="section">
+            <h2>Relevant Experience</h2>
+            <hr>
+            <p>This is where my relevant experience will go </p>  
+            <div class="experience">
+                <h3 class="entry-header">Project 3</h3>
+                <p>This is where my experience information will go</p>     
+            </div>    
+            <div class="experience">
+                <h3 class="entry-header">Project 3</h3>
+                <p>This is where my experience information will go</p>     
+            </div>   
+            <div class="experience">
+                <h3 class="entry-header">Project 3</h3>
+                <p>This is where my experience information will go</p>     
+            </div>          
         </div>
     </body>
 </html>
