@@ -10,11 +10,15 @@ div, h1, h2, h3, p {
     padding: 0;
 
 }
+.info{
+    text-align: center;
+}
 h1{
     font-size: x-large;
 }
 h2{
     font-size: large;
+    margin-top: 20px;
 }
 h3{
     font-size: medium;

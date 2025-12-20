@@ -9,9 +9,9 @@
     </head>
     <body>
         <div class="information-header">
-            <h1 class="name" ><strong>Kai Fernandes</strong></h1>
-            <p>kai.fernandes890@gmail.com | 774-678-5252</p>
-            <p>LinkedIn: www.linkedin.com/in/kai-fernandes | Github : https://github.com/kasch890 </p>
+            <h1 class="name info" ><strong>Kai Fernandes</strong></h1>
+            <p class="info">kai.fernandes890@gmail.com | 774-678-5252</p>
+            <p class="info">LinkedIn: www.linkedin.com/in/kai-fernandes | Github : https://github.com/kasch890 </p>
         </div>
         <div class="section">
             <h2 class="section-header">Professional Summary</h2>
@@ -56,25 +56,35 @@
                 </ul>      
             </div> 
             <div class="project">
-                <h3 class="entry-header">Project 3</h3>
-                <p>This is where my project information will go</p>     
+                <h3 class="entry-header">Astronomy Image Analysis Pipelines</h3>
+                <ul>
+                    <li>Built Python pipelines for CCD imaging, photometry, and astrometry to process astronomical data</li>
+                    <li>Operated a 0.9-meter telescope using Java to collect data from the Half Degree Imager CCD Camera at Kitt Peak National Observatory</li>
+                    <li>Applied statistical methods to large datasets, strengthening computational and analytical skills</li>
+
+                </ul>             
             </div> 
         </div>
         <div class="section">
             <h2>Relevant Experience</h2>
             <hr>
-            <p>This is where my relevant experience will go </p>  
             <div class="experience">
-                <h3 class="entry-header">Project 3</h3>
-                <p>This is where my experience information will go</p>     
+                <h3 class="entry-header">UX Research and Design Intern</h3>
+                <ul>
+                    <li>Developed usability tests for UX research; Collected, analyzed, and presented the data to the team for review on new feature for application</li>
+                    <li>Wrote python script for analyzing monthly metrics and providing visually appealing graphs, improving the data parsing process from 2 hours to 20 minutes</li>
+                    <li>Developed user personas and presented them to team to provide a more uniform vision of the company's end users</li>
+
+                </ul> 
             </div>    
             <div class="experience">
-                <h3 class="entry-header">Project 3</h3>
-                <p>This is where my experience information will go</p>     
-            </div>   
-            <div class="experience">
-                <h3 class="entry-header">Project 3</h3>
-                <p>This is where my experience information will go</p>     
+                <h3 class="entry-header">Summer Physics Research Scholar</h3>
+                <ul>
+                    <li>Assisted in training convolutional neural networks on simulated particle physics data</li>
+                    <li>Debugged Python scripts to improve model performance and reliability</li>
+                    <li>Presented findings to a 10-person research team, strengthening communication and collaboration skills</li>
+
+                </ul> 
             </div>          
         </div>
     </body>
