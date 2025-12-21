@@ -5,55 +5,7 @@
         <meta name="description" content="Resume for Kai Fernandes"/>
         <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
         <title>Fernandes Resume</title>
-        <style>
-            @media print {
-    @page {
-        /* Set the page size to standard letter dimensions */
-        size: letter;
-        margin: 1in; 
-    }
-
-    body {
-        margin: 0;
-        padding: 0;
-    }
-
-    /* Add any other print-specific styles here, like hiding navigation */
-    .no-print {
-        display: none;
-    }
-}
-.information-header{
-    text-align: center;
-}
-div, h1, h2, h3, p {
-    margin: 0;
-    padding: 0;
-
-}
-.info{
-    text-align: center;
-}
-h1{
-    font-size: x-large;
-}
-h2{
-    font-size: large;
-    margin-top: 20px;
-}
-h3{
-    font-size: medium;
-}
-hr{
-    height: 2px; /* Sets the thickness of the line */
-    background-color: #000000; 
-    border: none; 
-    margin: 2px auto 5px auto; 
-    width: 90%; 
-    align-self: center;
-    
-}
-        </style>
+        <link href="resume_stylesheet.css" rel="stylesheet"/>
     </head>
     <body>
         <div class="information-header">
