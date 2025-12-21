@@ -1,6 +1,23 @@
-@page {
-    size: US Letter;
-    margin: 0.5in;   
+@media print {
+    @page {
+        /* Set the page size to standard letter dimensions */
+        size: letter;
+        /* Optional: Adjust margins (default is usually fine) */
+        margin: 1in; 
+    }
+
+    /* Ensure the main content uses the full available width/height */
+    body {
+        width: 8.5in;
+        height: 11in;
+        margin: 0;
+        padding: 0;
+    }
+
+    /* Add any other print-specific styles here, like hiding navigation */
+    .no-print {
+        display: none;
+    }
 }
 .information_header{
     text-align: center;
