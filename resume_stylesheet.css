@@ -40,12 +40,12 @@ h2{
 h3{
     font-size: medium;
 }
-hr{
-    height: 2px; /* Sets the thickness of the line */
+/* hr{
+    height: 2px;  
     background-color: #000000; 
     border: none; 
-    margin: 2px auto 5 px auto; 
+    margin: 2px auto 5px auto; 
     width: 90%; 
     align-self: center;
     
-}
+} */

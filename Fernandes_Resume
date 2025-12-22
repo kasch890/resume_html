@@ -15,30 +15,35 @@
         </div>
         <div class="section">
             <h2 class="section-header">Professional Summary</h2>
-            <hr>
-            <p>Master’s student in Software Development with a strong foundation in physics and astronomy research,
-                 now pivoting into software engineering. Experienced in Python, Java, UX/UI design, machine learning,
-                  and web development, with hands-on projects ranging from Trello plug-in development to custom Python applications.
-                   Passionate about user-focused design and collaborative problem-solving, seeking to apply technical expertise, 
-                   analytical skills, and communication strengths in software engineering internships.</p>            
+            
+            <p>Master’s student in Software Development with experience in Python and Java and a strong foundation in 
+                UX design and research. Completed course-based and personal projects, including custom Python applications 
+                for data parsing and front-end development with HTML and CSS. Motivated to apply user-focused design principles, 
+                collaborative problem-solving skills, and strong analytical and communication abilities in an entry-level 
+                software engineering role.</p>            
         </div>
         <div class="section">
             <h2>Education</h2>
-            <hr>
-            <p>Boston University Metropolitan College - MS in Software Development (Expected Fall 2026) ; 
-                Graduate Certificate in Software Engineering (Expected Summer 2026) | Current GPA 3.68</p>            
-            <p>Amherst College - Class of 2024 - BA in Physics | Final GPA 3.63</p>            
+            
+            <p><strong>Boston University Metropolitan College</strong> - MS in Software Development <em>(Expected Fall 2026)</em> ; 
+                Graduate Certificate in Software Engineering <em>(Expected Summer 2026)</em> | Current GPA 3.68 / 4.00</p>            
+            <p><strong>Amherst College</strong> - BA in Physics <em>(2024)</em> | Final GPA 3.63 / 4.00</p>            
         </div>
         <div class="section">
             <h2>Technical Skills</h2>
-            <hr>
-            <p>This is where my technical skills will go</p>            
+            
+            <ul>
+                <li><strong>Programming Languages:</strong> Python, Java, HTML, CSS</li>
+                <li><strong>Developer tools & frameworks:</strong> Git, Figma, Jira, Agile, SQL, MATLAB, NumPy, Pandas, TensorFlow</li>
+                <li><strong>Data & design skills:</strong> NumPy, Pandas, Google & Excel spreadsheets, UX/UI design, UX research, usability testings, wireframing, prototyping</li>    
+                <li><strong>Agile methodologies:</strong> Scrum, Kanban</li>  
+                <li><strong>Project & collaboration tools:</strong> Jira, Trello, Pivotal Tracker, Project Plan 365, Slack
+                </li>   
         </div>
         <div class="section">
             <h2>Projects</h2>
-            <hr>
             <div class="project">
-                <h3 class="entry-header">Game Log Application</h3>
+                <h3 class="entry-header"><strong>Game Log Application</strong> <em>(Python)</em> | Personal Project</h3>
                 <ul>
                     <li>Designed and implemented a Game object class and Game_Log application to manage user entries</li>
                     <li>Built CRUD functionality for game records with JSON import/export support</li>
@@ -47,7 +52,7 @@
                 </ul>     
             </div>       
             <div class="project">
-                <h3 class="entry-header">Trello Power-Up Development</h3>
+                <h3 class="entry-header"><strong>Power-Up Development</strong> <em>(Agile, HTML/CSS)</em> | Academic Project - BU CS633</h3>
                 <ul>
                     <li>Adopted Agile framework (sprint planning, backlog grooming) and maintained estimation records</li>
                     <li>Designed wireframes using Figma and implemented them with HTML/CSS to assist front end production</li>
@@ -56,7 +61,7 @@
                 </ul>      
             </div> 
             <div class="project">
-                <h3 class="entry-header">Astronomy Image Analysis Pipelines</h3>
+                <h3 class="entry-header"><strong>Astronomy Image Analysis Pipelines</strong> <em>(Python, Java)</em> | Academic Project - AC 337 & 341</h3>
                 <ul>
                     <li>Built Python pipelines for CCD imaging, photometry, and astrometry to process astronomical data</li>
                     <li>Operated a 0.9-meter telescope using Java to collect data from the Half Degree Imager CCD Camera at Kitt Peak National Observatory</li>
@@ -67,23 +72,21 @@
         </div>
         <div class="section">
             <h2>Relevant Experience</h2>
-            <hr>
+            
             <div class="experience">
-                <h3 class="entry-header">UX Research and Design Intern</h3>
+                <h3 class="entry-header"><strong>UX Research and Design Intern</strong> | Blank Slate Technologies <em>(October 2025 - April 2026)</em></h3>
                 <ul>
-                    <li>Developed usability tests for UX research; Collected, analyzed, and presented the data to the team for review on new feature for application</li>
-                    <li>Wrote python script for analyzing monthly metrics and providing visually appealing graphs, improving the data parsing process from 2 hours to 20 minutes</li>
-                    <li>Developed user personas and presented them to team to provide a more uniform vision of the company's end users</li>
+                    <li>Designed and executed usability tests and user persona research, synthesizing findings to inform application feature decisions</li>
+                    <li>Automated monthly metrics analysis using Python, reducing data processing time from 2 hours to 20 minutes and improving reporting clarity</li>
+                    <li>Developed user personas and presented them to for team to provide a most uniform vision of our end users</li>
 
                 </ul> 
             </div>    
             <div class="experience">
-                <h3 class="entry-header">Summer Physics Research Scholar</h3>
+                <h3 class="entry-header"><strong>Summer Physics Research Scholar</strong> | Tufts University <em>(June 2025 - October 2025)</em></h3>
                 <ul>
-                    <li>Assisted in training convolutional neural networks on simulated particle physics data</li>
-                    <li>Debugged Python scripts to improve model performance and reliability</li>
-                    <li>Presented findings to a 10-person research team, strengthening communication and collaboration skills</li>
-
+                    <li>Trained and debugged convolutional neural networks on simulated particle physics data to improve model reliability and performance</li>
+                    <li>Presented technical findings to a 10-person research team, strengthening cross-disciplinary communication</li>
                 </ul> 
             </div>          
         </div>
